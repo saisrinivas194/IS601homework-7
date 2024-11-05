@@ -10,7 +10,7 @@ Below is the generated QR code that links to the GitHub homepage:
 ## Log of QR Code Generation
 Here is a log output of the successful QR code generation:
 
-![Log Image](path/to/log/image.png)
+![Log Image](log/image.png)
 
 ## How to Build and Run
 
